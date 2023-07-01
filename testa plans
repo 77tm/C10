@@ -1,0 +1,17 @@
+Ievads      Programmas vēlamā reakcija              Rezultāts C++
+N = 3       Saliktie skaitļi: 4 8                      +
+            Minimālais no saliktajiem ir 4
+a1 = 1
+a2 = 4
+a3 = 8
+------------------------------------------------------------------------
+N = 4
+
+a1 = -1     "Ievadiet naturalu skaitli!", pec tam      +
+a2 = 3      pajauta ievadit velreiz
+a3 = 18     Saliktie skaitli: 12 18
+a4 = 12     Minimalais no saliktajiem ir 12
+------------------------------------------------------------------------
+N = 0       "Ievadiet N vismaz 1"                      +
+vai     
+N = -n
